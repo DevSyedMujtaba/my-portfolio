@@ -35,8 +35,10 @@ function ContactForm() {
 
     try {
       setIsLoading(true);
+      // Use current domain instead of environment variable
+      const baseUrl = typeof window !== 'undefined' ? window.location.origin : '';
       const res = await axios.post(
-        `${process.env.NEXT_PUBLIC_APP_URL}/api/contact`,
+        `${baseUrl}/api/contact`,
         userInput
       );
 
