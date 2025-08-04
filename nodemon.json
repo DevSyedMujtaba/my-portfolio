@@ -1,0 +1,16 @@
+{
+  "watch": [
+    "app/**/*",
+    "utils/**/*",
+    "public/**/*",
+    "*.js",
+    "*.json"
+  ],
+  "ignore": [
+    ".next/**/*",
+    "node_modules/**/*",
+    "*.log"
+  ],
+  "ext": "js,jsx,ts,tsx,json,css,scss",
+  "exec": "npm run dev"
+} 
