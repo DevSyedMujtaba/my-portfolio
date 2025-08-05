@@ -3,7 +3,9 @@
 
 A modern, responsive developer portfolio built with Next.js, showcasing my full-stack development skills and projects. Features a dark theme with smooth animations and interactive elements.
 
-## 🚀 Features
+Live Preview: https://mujtaba-bukhari.netlify.app/
+
+##  Features
 
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
 - **Interactive Projects Section**: Sticky card animations with smooth scrolling
@@ -13,7 +15,7 @@ A modern, responsive developer portfolio built with Next.js, showcasing my full-
 - **Smooth Animations**: CSS transitions and hover effects
 - **SEO Optimized**: Meta tags and structured data
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: Next.js, React, Tailwind CSS, SCSS
 - **Backend**: Node.js, Express.js, API Routes
@@ -22,7 +24,7 @@ A modern, responsive developer portfolio built with Next.js, showcasing my full-
 - **Deployment**: Vercel, Netlify
 - **Other**: OpenAI API, AWS Services, Prisma ORM
 
-## �� Projects Showcased
+##  Projects Showcased
 
 - **Community Simple**: React.js platform for community management
 - **Diamonds Recharge**: Next.js top-up service for BIGO users
@@ -30,17 +32,17 @@ A modern, responsive developer portfolio built with Next.js, showcasing my full-
 - **Travel Agency App**: Full-stack app with NestJS and MySQL
 - **Business Websites**: 6+ client websites built with HTML, CSS, JS, PHP
 
-## �� Skills Highlighted
+##  Skills Highlighted
 
 HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Supabase, OpenAI, Vercel, Prisma, Tailwind CSS, PHP, Git/GitHub, Postman, Figma, Firebase
 
-## �� Getting Started
+##  Getting Started
 
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Run development server: `npm run dev`
 4. Open [http://localhost:3000](http://localhost:3000)
 
-## �� Contact
+##  Contact
 
 Feel free to reach out for collaborations or opportunities!
