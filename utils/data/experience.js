@@ -2,8 +2,8 @@ export const experiences = [
   {
     id: 1,
     title: 'Software Engineer',
-    company: "Macro Soar Technologies",
-    duration: "(July 2025 -August 2025)"
+    company: "Invovision Technologies (PVT) LTD",
+    duration: "(May 2025 -August 2025)"
   },
   {
     id: 2,
